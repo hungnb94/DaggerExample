@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableLayout">
+        <attr name="isCollapsed" format="boolean" />
+        <attr name="minHeight" format="dimension" />
+        <attr name="opacityView" format="reference" />
+    </declare-styleable>
+</resources>
